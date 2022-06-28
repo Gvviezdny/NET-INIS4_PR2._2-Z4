@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GrupyProduktów>
+  <Grupa>
+    <Nazwa>Samochody Osobowe</Nazwa>
+    <Produkty>
+      <Produkt
+      id="232141"
+      >
+        <Nazwa>Daewoo</Nazwa>
+        <Cena>1500</Cena>
+		  <DataPowstania>2019</DataPowstania>
+        <Odmiana>
+          <Marka>Tico</Marka>
+        </Odmiana>
+		  <KrajProdukcji Kod="Kor">
+          <Nazwa>Korea Poludniowa</Nazwa>
+        </KrajProdukcji>
+		  <RodzajSilnika>
+			  <Naped>4 koła</Naped>
+		  </RodzajSilnika>
+		  <RodzajSilnika>
+			  <pojemność_silnika>0.5 litra</pojemność_silnika>
+		  </RodzajSilnika>
+		  
+      </Produkt>
+		<Produkt
+		id="232141"
+      >
+			<Nazwa>Ford</Nazwa>
+			<Cena>15000</Cena>
+			<DataPowstania>2019</DataPowstania>
+			<Odmiana>
+				<Marka>Mondeo</Marka>
+			</Odmiana>
+			<KrajProdukcji Kod="Kor">
+				<Nazwa>USA</Nazwa>
+			</KrajProdukcji>
+			<RodzajSilnika>
+				<Naped>4 koła</Naped>
+			</RodzajSilnika>
+			<RodzajSilnika>
+				<pojemność_silnika>2 litry</pojemność_silnika>
+			</RodzajSilnika>
+
+		</Produkt>
+		<Produkt
+	id="2321421"
+      >
+			<Nazwa>Fiat</Nazwa>
+			<Cena>1500</Cena>
+			<DataPowstania>1997</DataPowstania>
+			<Odmiana>
+				<Marka>Ciquecento</Marka>
+			</Odmiana>
+			<KrajProdukcji Kod="Kor">
+				<Nazwa>Włochy</Nazwa>
+			</KrajProdukcji>
+			<RodzajSilnika>
+				<Naped>4 koła</Naped>
+			</RodzajSilnika>
+			<RodzajSilnika>
+				<pojemność_silnika>2 litry</pojemność_silnika>
+			</RodzajSilnika>
+
+		</Produkt>
+    </Produkty>
+  </Grupa>
+	<Grupa>
+		<Nazwa>Samochody Cięzarowe</Nazwa>
+		<Produkty>
+			<Produkt
+	id="232141"
+      >
+				<Nazwa>Man</Nazwa>
+				<Cena>1500000</Cena>
+				<DataPowstania>2019</DataPowstania>
+				<Odmiana>
+					<Marka>Turbo</Marka>
+				</Odmiana>
+				<KrajProdukcji Kod="Kor">
+					<Nazwa>Niemcy</Nazwa>
+				</KrajProdukcji>
+				<RodzajSilnika>
+					<Naped>4 koła</Naped>
+				</RodzajSilnika>
+				<RodzajSilnika>
+					<pojemność_silnika>20 litry</pojemność_silnika>
+				</RodzajSilnika>
+
+			</Produkt>
+			<Produkt id="232141">
+				<Nazwa>Iveco</Nazwa>
+				<Cena>250000</Cena>
+				<DataPowstania>1999</DataPowstania>
+				<Odmiana>
+					<Marka>Anaconda</Marka>
+				</Odmiana>
+				<KrajProdukcji Kod="Kor">
+					<Nazwa>Korea Poludniowa</Nazwa>
+				</KrajProdukcji>
+				<RodzajSilnika>
+					<Naped>4 koła</Naped>
+				</RodzajSilnika>
+				<RodzajSilnika>
+					<pojemność_silnika>15 litry</pojemność_silnika>
+				</RodzajSilnika>
+			</Produkt>
+			<Produkt id="232141">
+				<Nazwa>Scania</Nazwa>
+				<Cena>300000</Cena>
+				<DataPowstania>2020</DataPowstania>
+				<Odmiana>
+					<Marka>Toscania</Marka>
+				</Odmiana>
+				<KrajProdukcji Kod="Kor">
+					<Nazwa>Szwecja</Nazwa>
+				</KrajProdukcji>
+				<RodzajSilnika>
+					<Naped>4 koła</Naped>
+				</RodzajSilnika>
+				<RodzajSilnika>
+					<pojemność_silnika>30 litry</pojemność_silnika>
+				</RodzajSilnika>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+	<Grupa>
+		<Nazwa>Motory</Nazwa>
+		<Produkty>
+			<Produkt id="232141">
+				<Nazwa>Yamaha</Nazwa>
+				<Cena>15000</Cena>
+				<DataPowstania>2019</DataPowstania>
+				<Odmiana>
+					<Marka>Taurus</Marka>
+				</Odmiana>
+				<KrajProdukcji Kod="Kor">
+					<Nazwa>Japonia</Nazwa>
+				</KrajProdukcji>
+				<RodzajSilnika>
+					<Naped>2 koła</Naped>
+				</RodzajSilnika>
+				<RodzajSilnika>
+					<pojemność_silnika>2 litry</pojemność_silnika>
+				</RodzajSilnika>
+			</Produkt>
+						<Produkt id="232141">
+				<Nazwa>Honda</Nazwa>
+				<Cena>15000</Cena>
+				<DataPowstania>2010</DataPowstania>
+				<Odmiana>
+					<Marka>Zaibatsu</Marka>
+				</Odmiana>
+				<KrajProdukcji Kod="Kor">
+					<Nazwa>Japonia</Nazwa>
+				</KrajProdukcji>
+				<RodzajSilnika>
+					<Naped>2 koła</Naped>
+				</RodzajSilnika>
+				<RodzajSilnika>
+					<pojemność_silnika>2 litry</pojemność_silnika>
+				</RodzajSilnika>
+			</Produkt>
+						<Produkt id="232141">
+				<Nazwa>Kawasaki</Nazwa>
+				<Cena>10000</Cena>
+				<DataPowstania>2006</DataPowstania>
+				<Odmiana>
+					<Marka>Saki</Marka>
+				</Odmiana>
+				<KrajProdukcji Kod="Kor">
+					<Nazwa>Korea Poludniowa</Nazwa>
+				</KrajProdukcji>
+				<RodzajSilnika>
+					<Naped>2 koła</Naped>
+				</RodzajSilnika>
+				<RodzajSilnika>
+					<pojemność_silnika>2 litry</pojemność_silnika>
+				</RodzajSilnika>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+  <Grupa>
+    <Nazwa>Samoloty</Nazwa>
+    <Produkty>
+		<Produkt id="2322141">
+			<Nazwa>Boeing</Nazwa>
+			<Cena>150000000$</Cena>
+			<DataPowstania>2019</DataPowstania>
+			<Odmiana>
+				<Marka>747</Marka>
+			</Odmiana>
+			<KrajProdukcji Kod="Kor">
+				<Nazwa>Holandia</Nazwa>
+			</KrajProdukcji>
+			<RodzajSilnika>
+				<Naped>Turbo</Naped>
+			</RodzajSilnika>
+			<RodzajSilnika>
+				<pojemność_silnika>20000 litry</pojemność_silnika>
+			</RodzajSilnika>
+		</Produkt>
+    </Produkty>
+  </Grupa>
+</GrupyProduktów>
